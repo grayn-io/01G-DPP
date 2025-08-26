@@ -1,4 +1,4 @@
-# Node POC API
+# Node API
 
 ## Code style
 
